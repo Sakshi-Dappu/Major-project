@@ -1,4 +1,4 @@
 # Major-project
-Spotify Clone
+Spotify Clone https://spotifymirror.netlify.app
 
 Created by Sakshi Dappu
